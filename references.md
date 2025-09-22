@@ -69,3 +69,4 @@ Front page story,
 Guts and glory,
 I'm the king
 of New York!
+
